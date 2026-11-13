@@ -13,4 +13,5 @@ venv/
 .env
 
 # Original downloaded datasets
-**data/raw/
+**/data/raw/
+.vscode/
