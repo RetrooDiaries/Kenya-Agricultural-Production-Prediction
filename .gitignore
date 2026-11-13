@@ -1,0 +1,16 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Original downloaded datasets
+data/raw/
